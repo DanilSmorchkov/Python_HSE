@@ -1,1 +1,7 @@
-https://www.python.org/
+http://www.chem100.ru/text.php?t=018b
+http://www.chem100.ru/art.php?t=am
+http://www.iupac.org/publications/pac/series/atomicweights/
+http://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=&ascii=html&isotype=some
+http://www.nndc.bnl.gov/masses/
+https://web.archive.org/web/20190111232533/http://www.nndc.bnl.gov/masses/
+https://web.archive.org/web/20080916054253/http://www.nndc.bnl.gov/amdc/
